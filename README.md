@@ -17,3 +17,7 @@ Creating CRUD based (in memory) api using Functional programming and Domain Driv
 dotnet new sln -o Einburgerungstest
 ```
 
+```sh
+# create a class library
+dotnet new classlib -o Einburgerungstest.Contracts
+```
