@@ -7,3 +7,13 @@ Small dotnet 6 api to demonstrate small steps and give small guideline to people
 ## Description
 
 Creating CRUD based (in memory) api using Functional programming and Domain Driven Design.
+
+## Steps
+
+### Creating working environment
+
+```sh
+# create a solution
+dotnet new sln -o Einburgerungstest
+```
+
