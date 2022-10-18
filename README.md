@@ -21,3 +21,8 @@ dotnet new sln -o Einburgerungstest
 # create a class library
 dotnet new classlib -o Einburgerungstest.Contracts
 ```
+
+```sh
+# create a webapi
+dotnet new webapi -o Einburgerungstest.API
+```
